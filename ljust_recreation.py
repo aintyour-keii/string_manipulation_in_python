@@ -3,5 +3,4 @@
 # Check if string needs extra spaces
 # If so, add spaces to the string, 
 # the number of spaces is equal to that of the width minus the length of the string
-# If not, do nothing
 # Print the result
